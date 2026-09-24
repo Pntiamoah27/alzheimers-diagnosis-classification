@@ -43,11 +43,6 @@ jupyter notebook notebook.ipynb
 ```
 Dependencies: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
 Data
-The notebook expects `alzheimers_disease_data.csv` in the working directory (or `data/`). Source: add a link to the dataset and check its license before redistributing the file.
-Possible improvements
-Print and save `best_params_` for each search, and save the fitted models
-Tune the decision threshold to raise recall if missed cases are costly
-Check probability calibration
-Use permutation importance or SHAP
-Add confidence intervals via repeated cross-validation or bootstrapping
+The notebook expects `alzheimers_disease_data.csv` in the working directory (or `data/`). Source: 
+https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
 https://github.com/Pntiamoah27/
