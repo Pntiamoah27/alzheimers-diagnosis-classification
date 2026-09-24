@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Saved models
+*.pkl
+*.pickle
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
