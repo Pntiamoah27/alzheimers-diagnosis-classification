@@ -36,7 +36,7 @@ alzheimers-diagnosis-classification/
 ```
 Getting started
 ```bash
-git clone https://github.com/<your-username>/alzheimers-diagnosis-classification.git
+git clone https://github.com/Pntiamoah27/alzheimers-diagnosis-classification.git
 cd alzheimers-diagnosis-classification
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
