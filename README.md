@@ -1,6 +1,6 @@
 # alzheimers-diagnosis-classification
 Machine learning classification of Alzheimer's diagnosis using Logistic Regression, Random Forest and XGBoost, with EDA, model comparison and interpretation.
-> **Educational project. Not a clinical tool or medical advice.** The dataset shows signs of being synthetic (see [Limitations](#limitations)), so results should not be assumed to transfer to real patients.
+> **Educational project. Not a clinical tool or medical advice.** The dataset shows signs of being synthetic (see Limitations section below), so results should not be assumed to transfer to real patients.
 Overview
 The notebook loads a tabular dataset of 2,149 older adults (ages 60-90) and predicts a binary `Diagnosis` label (0 = no diagnosis, 1 = diagnosis; about 35% positive). It covers:
 Data quality checks (missing values, duplicates, class balance)
